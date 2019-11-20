@@ -1,0 +1,24 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP T5336
+D wireless charging IC
+K wireless charging mosfet
+F No Datasheet found
+$ENDCMP
+#
+$CMP XKT-335
+K MOSFET XKT 335 1905 Wireless Charging
+F Datasheet not found!
+$ENDCMP
+#
+$CMP XKT-408A
+K wireless charging xkt 408A
+F https://www.datasheet4u.com/datasheet-parts/XKT-408A-datasheet.php?id=770546
+$ENDCMP
+#
+$CMP XKT-412
+K wireless charging xkt 412
+F http://datasheetcafe.databank.netdna-cdn.com/wp-content/uploads/2017/03/XKT-412-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
