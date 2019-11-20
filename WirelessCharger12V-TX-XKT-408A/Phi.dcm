@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VOUT
+D Power symbol creates a global label with name "VOUT"
+K power-flag
+$ENDCMP
+#
+#End Doc Library
